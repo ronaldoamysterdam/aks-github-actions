@@ -5,7 +5,7 @@ env:
   REGISTRY_NAME: acrronaldoamysterdamalvesneres
   CLUSTER_NAME: myAKSCluster
   CLUSTER_RESOURCE_GROUP: myResourceGroupAks
-  NAMESPACE: default
+  NAMESPACE: teste
   SECRET: regcred
   APP_NAME: teste
   
